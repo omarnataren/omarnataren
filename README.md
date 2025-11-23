@@ -69,9 +69,9 @@ I enjoy blending **technology + design + storytelling**, especially when creatin
 
 
 
-## 📫 Contact
-- 📧 **omarnataren@outlook.com**  
-- 🔗 **LinkedIn:** [Omar Nataren](#) 
+##  Contact
+- **omarnataren@outlook.com**  
+- **LinkedIn:** [Omar Nataren](#) 
 
 ---
 
