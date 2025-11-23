@@ -73,6 +73,3 @@ I enjoy blending **technology + design + storytelling**, especially when creatin
 - **omarnataren@outlook.com**  
 - **LinkedIn:** [Omar Nataren](#) 
 
----
-
-<p align="center">✨ Thanks for stopping by — building, learning, and creating one commit at a time ✨</p>
